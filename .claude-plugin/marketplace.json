@@ -1,0 +1,12 @@
+{
+  "name": "happenstance-dev",
+  "owner": {"name": "Drew Burchfield", "url": "https://github.com/drewburchfield"},
+  "plugins": [{
+    "name": "happenstance",
+    "source": "./",
+    "description": "Network intelligence: research people, search professional networks, and run compound workflows. Bundles Happenstance MCP server.",
+    "version": "1.0.0",
+    "author": {"name": "Drew Burchfield", "url": "https://github.com/drewburchfield"},
+    "category": "research"
+  }]
+}
