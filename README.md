@@ -1,4 +1,4 @@
-# happenstance
+# happenstance-navigator
 
 Research people and search your professional network using the [Happenstance](https://happenstance.ai) API. Bundles the MCP server.
 
@@ -27,7 +27,7 @@ A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugin from the 
 ## Install
 
 ```
-claude plugins install happenstance@not-my-job
+claude plugins install happenstance-navigator@not-my-job
 ```
 
 ## License
