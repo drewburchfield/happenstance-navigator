@@ -2,17 +2,11 @@
 
 <img src="https://ghrb.waren.build/banner?header=happenstance-navigator%20%F0%9F%A4%9D&subheader=Network%20intelligence%20with%20bundled%20MCP%20server&bg=0a1628&secondaryBg=1e3a5f&color=e8f0fe&subheaderColor=7eb8da&headerFont=Inter&subheaderFont=Inter&support=false" alt="happenstance-navigator" width="100%">
 
-<br><br>
-
-**Network intelligence with bundled MCP server.**
-
 A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugin from the [not-my-job](https://github.com/drewburchfield/not-my-job) marketplace.
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 </div>
-
-<br>
 
 ## What it does
 
